@@ -1,0 +1,10 @@
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\finalödevi2.csproj.AssemblyReference.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\finalödevi2.csproj.GenerateResource.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\finalödevi2.csproj.CoreCompileInputs.cache
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\bin\Debug\formuygulaması.exe.config
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\bin\Debug\formuygulaması.exe
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\bin\Debug\formuygulaması.pdb
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\formuygulaması.Form1.resources
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\formuygulaması.Properties.Resources.resources
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\formuygulaması.exe
+C:\Users\Burak Torun\OneDrive\Masaüstü\finalödevi2\finalödevi2\obj\Debug\formuygulaması.pdb
