@@ -3,7 +3,7 @@
 https://www.youtube.com/watch?v=q-bUI4lZvLY
 
 ### BİLGİLENDİRME
-Hocam merhabalar ben bts206 20703014 numaralı Burak torun isimli öğrenciniz vermiş olduğunuz büt ödevini yaptım ancak veri tabanını bağlarken kendi bilgisayarımda sıkıntı yaşamazken başka bir bilgisayarda hata alıyorum bu sorunu düzeltmek için çoğu alternatifleri denedim ancak yine de sonuç alamadım. Bu hatayı telafi etmek amaçlı ekstra bir tane de WPF masaüstü uygulaması geliştirdim. Sizin de onayınız olursa iki ödev olarak göndermek istedim. Dönem ortalamam 59,65 kaldığı için 80 Puan Vermeniz hem bu dersten hem de şartlı olarak kaldığım derslerden de geçmemi sağlayacaktır.Yardımcı olursanız çok sevinirim.
+Hocam merhabalar ben bts206 20703014 numaralı Burak torun isimli öğrenciniz vermiş olduğunuz büt ödevini yaptım ancak veri tabanını bağlarken kendi bilgisayarımda sıkıntı yaşamazken başka bir bilgisayarda hata alıyorum bu sorunu düzeltmek için çoğu alternatifleri denedim ancak yine de sonuç alamadım. Bu hatayı telafi etmek amaçlı ekstra bir tane de WPF masaüstü uygulaması geliştirdim. Ekstra olarak sql veritabanı dosyasını klasöre ekledim.
 
 ### 1- FORM TASARIMI:
 ![FORM](https://user-images.githubusercontent.com/72433795/175045726-5ebcc789-013a-4b58-9896-96ff24723e5e.png)
