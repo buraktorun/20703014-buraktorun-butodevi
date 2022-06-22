@@ -1,6 +1,7 @@
-# 20703014 BURAK TORUN MASAÜSTÜ FORM UYGULAMASI
+# MASAÜSTÜ FORM UYGULAMASI:
 ## ÇALIŞTIĞINA DAİR VİDEO LİNKİ:
 https://www.youtube.com/watch?v=q-bUI4lZvLY
+
 ### BİLGİLENDİRME
 Hocam merhabalar ben bts206 20703014 numaralı Burak torun isimli öğrenciniz vermiş olduğunuz büt ödevini yaptım ancak veri tabanını bağlarken kendi bilgisayarımda sıkıntı yaşamazken başka bir bilgisayarda hata alıyorum bu sorunu düzeltmek için çoğu alternatifleri denedim ancak yine de sonuç alamadım. Bu hatayı telafi etmek amaçlı ekstra bir tane de WPF masaüstü uygulaması geliştirdim. Sizin de onayınız olursa iki ödev olarak göndermek istedim. Dönem ortalamam 59,65 kaldığı için 80 Puan Vermeniz hem bu dersten hem de şartlı olarak kaldığım derslerden de geçmemi sağlayacaktır.Yardımcı olursanız çok sevinirim.
 
@@ -16,3 +17,4 @@ Hocam merhabalar ben bts206 20703014 numaralı Burak torun isimli öğrenciniz v
 ![KAYITGÜNCELLEME](https://user-images.githubusercontent.com/72433795/175053832-48860665-7181-42e0-b887-e629f8c0ed35.png)
 ### 6- SEÇİLİ BİLGİLERİ SİLME VE ARAMA KISMI KODU:
 ![ARAMAKISMI](https://user-images.githubusercontent.com/72433795/175054112-beea62b8-c871-4b0f-802c-f9a4b28a0b7b.png)
+
